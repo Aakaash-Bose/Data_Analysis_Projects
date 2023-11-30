@@ -9,7 +9,7 @@ You are a junior data analyst working in the marketing analyst team at Cyclistic
 About the organization:
 
 Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geo-tracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
-The project follows the six step data analysis process: ask, prepare, process, analyze, share, and act.
+The project follows the six-step data analysis process: ask, prepare, process, analyze, share, and act.
 ________________________________________________________________________________________________________________
 
 1. **ASK**
@@ -38,9 +38,7 @@ iv)	What aspects of the historical data is required for the analysis?
 v)	Why are casual riders not buying annual memberships?
 vi)	How is the data being governed for privacy and safety?
 
-Cyclistic currently has following numbers to depict the number of bikes and docking stations currently accessible in the fleet:
-![Image](https://github.com/users/Aakaash-Bose/projects/2/assets/152334712/34ad585c-271e-4161-8c22-18cf806b54b4)
-_Figure 1: Cyclistic Bike Data depicting current inventory_
+Cyclistic currently has the following numbers to depict the number of bikes and docking stations accessible in the fleet:
 ________________________________________________________________________________________________________________
 
 2. PREPARE
